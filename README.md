@@ -5,7 +5,4 @@ Passionate about building high-quality software products that deliver value to u
 My core practices and experience encompass a wide range of methodologies, including eXtreme Programming, Simple Design, Lean and DevOps. I am well-versed in Test-Driven Development (TDD), Domain-Driven Development (DDD), and Hexagonal architecture, which enable me to build robust and scalable software solutions.
 
 
-Find more about me at:
-* [LinkedIn](https://www.linkedin.com/in/jaimegildesagredo/)
-* [Twitter](https://twitter.com/jaimegil)
-* [My personal page](https://www.jaimegil.me)
+Find more about me at: [LinkedIn](https://www.linkedin.com/in/jaimegildesagredo/), [Twitter](https://twitter.com/jaimegil) or [my personal page](https://www.jaimegil.me).
